@@ -1,0 +1,12 @@
+php_flag display_errors on
+php_flag display_startup_errors on
+
+php_value date.timezone 'Asia/Yekaterinburg'
+php_value default_charset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml
+
+
+AuthUserFile /home/c/cu31997/telegrambot/.htpasswd
+AuthType Basic   
+AuthName admin 
+require valid-user

@@ -1,0 +1,1496 @@
+Array
+(
+    [update_id] => 720713453
+    [message] => Array
+        (
+            [message_id] => 551
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513536247
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713454
+    [message] => Array
+        (
+            [message_id] => 553
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513536270
+            [text] => Тестовое сообщение
+        )
+
+)
+
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [id] => 494807396
+            [is_bot] => 1
+            [first_name] => PHP Developers contest
+            [username] => phpDevContestBot
+        )
+
+)
+
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [id] => 494807396
+            [is_bot] => 1
+            [first_name] => PHP Developers contest
+            [username] => phpDevContestBot
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713457
+    [message] => Array
+        (
+            [message_id] => 560
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513538663
+            [text] => ghbdtn ,jn
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 720713458
+    [message] => Array
+        (
+            [message_id] => 563
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513620565
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713459
+    [message] => Array
+        (
+            [message_id] => 565
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513626691
+            [text] => Последнее сообщение
+        )
+
+)
+
+
+
+Array
+(
+    [update_id] => 720713460
+    [message] => Array
+        (
+            [message_id] => 566
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513712565
+            [text] => Привет бот. Как дела?
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713461
+    [message] => Array
+        (
+            [message_id] => 567
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513715255
+            [text] => fgfdgfdgdfg
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713462
+    [message] => Array
+        (
+            [message_id] => 568
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513715321
+            [text] => fdsfdgdfg
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713463
+    [message] => Array
+        (
+            [message_id] => 569
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513715527
+            [text] => Ntcndsfdgfd dfgdfgd\
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713464
+    [message] => Array
+        (
+            [message_id] => 570
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513715558
+            [text] => dfdsfdsfsdfs
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713465
+    [message] => Array
+        (
+            [message_id] => 571
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513715853
+            [text] => Тататао
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 720713466
+    [message] => Array
+        (
+            [message_id] => 574
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513789783
+            [text] => Сообщение
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713467
+    [message] => Array
+        (
+            [message_id] => 575
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513795264
+            [text] => Тестовое сообщение
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713468
+    [message] => Array
+        (
+            [message_id] => 576
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513795275
+            [text] => Бот
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713469
+    [message] => Array
+        (
+            [message_id] => 577
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513795589
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713470
+    [message] => Array
+        (
+            [message_id] => 579
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513795614
+            [text] => Привет бот
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713471
+    [message] => Array
+        (
+            [message_id] => 580
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513796875
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713472
+    [message] => Array
+        (
+            [message_id] => 582
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513797234
+            [text] => Привет бот
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713473
+    [message] => Array
+        (
+            [message_id] => 584
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513797709
+            [text] => Че молчишь
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713474
+    [message] => Array
+        (
+            [message_id] => 585
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513797784
+            [text] => Ты спишь?
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713475
+    [message] => Array
+        (
+            [message_id] => 586
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513797789
+            [text] => :)
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713476
+    [message] => Array
+        (
+            [message_id] => 599
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513801374
+            [text] => Да кто ты?
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713477
+    [message] => Array
+        (
+            [message_id] => 600
+            [from] => Array
+                (
+                    [id] => 273704026
+                    [is_bot] => 
+                    [first_name] => Maksim
+                )
+
+            [chat] => Array
+                (
+                    [id] => 273704026
+                    [first_name] => Maksim
+                    [type] => private
+                )
+
+            [date] => 1513827379
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713478
+    [message] => Array
+        (
+            [message_id] => 602
+            [from] => Array
+                (
+                    [id] => 273704026
+                    [is_bot] => 
+                    [first_name] => Maksim
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 273704026
+                    [first_name] => Maksim
+                    [type] => private
+                )
+
+            [date] => 1513827387
+            [text] => хайло
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713479
+    [message] => Array
+        (
+            [message_id] => 603
+            [from] => Array
+                (
+                    [id] => 273704026
+                    [is_bot] => 
+                    [first_name] => Maksim
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 273704026
+                    [first_name] => Maksim
+                    [type] => private
+                )
+
+            [date] => 1513827395
+            [text] => привет
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713480
+    [message] => Array
+        (
+            [message_id] => 605
+            [from] => Array
+                (
+                    [id] => 83525856
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83525856
+                    [first_name] => Alexandr
+                    [type] => private
+                )
+
+            [date] => 1513855238
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713481
+    [message] => Array
+        (
+            [message_id] => 607
+            [from] => Array
+                (
+                    [id] => 83525856
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83525856
+                    [first_name] => Alexandr
+                    [type] => private
+                )
+
+            [date] => 1513855250
+            [text] => Как зайти
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713482
+    [message] => Array
+        (
+            [message_id] => 609
+            [from] => Array
+                (
+                    [id] => 83525856
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83525856
+                    [first_name] => Alexandr
+                    [type] => private
+                )
+
+            [date] => 1513855265
+            [text] => Привет
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713483
+    [message] => Array
+        (
+            [message_id] => 612
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513883528
+            [text] => Привет бот
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713484
+    [message] => Array
+        (
+            [message_id] => 613
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513885947
+            [text] => Ты тут
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713485
+    [message] => Array
+        (
+            [message_id] => 614
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513886094
+            [text] => Овоооааоадв
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713486
+    [message] => Array
+        (
+            [message_id] => 615
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513886117
+            [text] => Ты спас
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713487
+    [message] => Array
+        (
+            [message_id] => 616
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513886719
+            [text] => Тест
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713488
+    [message] => Array
+        (
+            [message_id] => 617
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513886851
+            [text] => Там
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713489
+    [message] => Array
+        (
+            [message_id] => 618
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513886880
+            [text] => Орри
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713490
+    [message] => Array
+        (
+            [message_id] => 620
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513888256
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713491
+    [message] => Array
+        (
+            [message_id] => 622
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513888271
+            [text] => Вызови копов
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713492
+    [message] => Array
+        (
+            [message_id] => 624
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513966347
+            [text] => Ттутуттаочово твталчтвтв тчтатчтччьчл сововововта татататататаоат татсосостала стоаоаос
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713493
+    [message] => Array
+        (
+            [message_id] => 625
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513966672
+            [text] => Оаововоа
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713494
+    [message] => Array
+        (
+            [message_id] => 626
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513966917
+            [text] => Лвовивов
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713495
+    [message] => Array
+        (
+            [message_id] => 627
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513966929
+            [text] => Ррипр
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713496
+    [message] => Array
+        (
+            [message_id] => 628
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513966940
+            [text] => Ррммроои
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713497
+    [message] => Array
+        (
+            [message_id] => 629
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513966955
+            [text] => Имиорр
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713498
+    [message] => Array
+        (
+            [message_id] => 631
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513967287
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713499
+    [message] => Array
+        (
+            [message_id] => 633
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513967343
+            [text] => Привет. У меня проблема с интернетом. Скорость соединения всего 1мб, не могу в танки играть!
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713500
+    [message] => Array
+        (
+            [message_id] => 634
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513967407
+            [text] => Мне необходимо несколько минут, чтобы разобраться в проблеме.
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713501
+    [message] => Array
+        (
+            [message_id] => 641
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513967981
+            [text] => Спасибо. Перезагрузка помогла
+        )
+
+)
+
+Array
+(
+    [update_id] => 720713502
+    [message] => Array
+        (
+            [message_id] => 642
+            [from] => Array
+                (
+                    [id] => 412595731
+                    [is_bot] => 
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 412595731
+                    [first_name] => Alexandr
+                    [last_name] => Grebenshchikov
+                    [type] => private
+                )
+
+            [date] => 1513968039
+            [text] => Теперь скорость 30 мб
+        )
+
+)
+

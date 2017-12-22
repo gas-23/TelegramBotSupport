@@ -1,0 +1,284 @@
+@font-face {
+    font-family: 'SF-UI-Display-Bold';
+    src: local('SF-UI-Display-Bold'), url('../fonts/SF-UI-Display-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF-UI-Display-Light';
+    src: local('SF-UI-Display-Light'), url('../fonts/SF-UI-Display-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF-UI-Display-Medium';
+    src: local('SF-UI-Display-Medium'), url('../fonts/SF-UI-Display-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF-UI-Display-Regular';
+    src: local('SF-UI-Display-Regular'), url('../fonts/SF-UI-Display-Regular.ttf') format('truetype');
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+::-webkit-input-placeholder {color:#adadad;}
+::-moz-placeholder          {color:#adadad;}
+:-moz-placeholder           {color:#adadad;}
+:-ms-input-placeholder      {color:#adadad;}
+
+:focus::-webkit-input-placeholder {color: transparent}
+:focus::-moz-placeholder          {color: transparent}
+:focus:-moz-placeholder           {color: transparent}
+:focus:-ms-input-placeholder      {color: transparent}
+
+body{
+	font-family: 'SF-UI-Display-Regular', Arial, Helvetica, sans-serif;
+	background: url(/assets/img/squama_bg.jpg) repeat;
+	font-size: 14px;
+}
+.container{
+	background-color: #fff;
+	box-shadow: 0 0 10px rgba(0,0,0,.2);
+	height: 100vh;
+	width:1100px;
+	margin: auto;
+}
+.top{
+	background-color: #ededee;
+	border-bottom: 1px solid #e7e7e7;
+	height: 70px;
+	width: 100%;
+}
+.top__logo{
+	width: 365px;
+	height: 100%;
+	float: left;
+	border-right: 1px solid #e3e3e3;
+	color:#adadad;
+	display: flex;
+	align-items:center;
+	text-decoration: none;
+	padding-left: 20px;
+}
+.top__logo img{
+	height: 30px;
+	margin-right: 20px;
+}
+.top__logo .logo-title-bold{
+	font-family: 'SF-UI-Display-Bold', Arial, Helvetica, sans-serif;
+}
+.top__logo .logo-title-light{
+	font-family: 'SF-UI-Display-Light', Arial, Helvetica, sans-serif;
+}
+.top__message{
+	width: 735px;
+	float: right;
+	height: 100%;
+	padding:15px 20px 15px 25px;
+	display: flex;
+	align-items:center;
+}
+.top__message .input-group .btn-primary{
+	font-size: 22px;
+}
+.top__message .btn-favorites{
+	color: #c6c6c6;
+	margin-right: 25px;
+	font-size: 18px;
+}
+.top__message .btn-favorites .checkbox{
+	display: none;
+}
+.top__message .btn-favorites .checkbox:checked + span>.fa {
+	color: #f3bd3d;
+}
+.top__message .btn-favorites:hover{
+	color: #f3bd3d;
+	cursor: pointer;
+}
+.top__message form{
+	width: 100%;
+}
+.chat{
+	height: calc(100vh - 70px);
+	display: flex;
+	align-items: stretch;
+}
+.chat__list-container{
+	width: 365px;
+	overflow: hidden;
+	border-right: 1px solid #e3e3e3;
+}
+.chat__list{
+	width: 381px;
+	height: 100%;
+	overflow-y: auto;
+}
+.chat__list .list__item{
+    display: flex;
+    align-items: center;
+    max-width:365px;
+    text-decoration: none; 
+}
+.chat__list .list__item:hover,
+.chat__list .list__item.active:hover,
+.chat__list .list__item.active{
+    background-color: #ededee;
+}
+.chat__list .item__photo{
+	margin: 0 15px 0 20px;
+	border-radius: 50%;
+	border:1px solid #ededee;
+	width: 50px;
+	height:50px;
+}
+.chat__list .item__container{
+	padding: 15px 20px 15px 0;
+	border-bottom: 1px solid #ececec;
+	width: 100%;
+}
+.chat__list .item__info{
+	position: relative;
+    line-height: 2;
+}
+.chat__list .item__login{
+	font-family: 'SF-UI-Display-Medium', Arial, Helvetica, sans-serif;
+	color:#124e72;
+}
+.chat__list .item__favorite{
+	display: none;
+	color:#f3bd3d;
+	margin-left: 3px;
+}
+.chat__list .item__favorite.active{
+	display: inline;
+}
+.chat__list .item__message{
+	color:#adadad;
+	width: 200px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.chat__list .item__time{
+	color:#adadad;
+	position: absolute;
+    right: 0;
+    top: 0;
+}
+.chat__list .item__alarm{
+	color:transparent;
+	position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.chat__list .item__alarm.active{
+	color:#ff7f7f;
+}
+.chat__lempty{
+	text-align: center;
+	padding: 20px;
+	color:#adadad;
+}
+.chat__talk-container{
+	width: 735px;
+	overflow: hidden;
+	border-right: 1px solid #e3e3e3;
+}
+.chat__talk{
+	width: 750px;
+	height: 100%;
+	overflow-y: auto;
+	padding:15px 0;
+}
+.chat__talk .talk__item{
+	width: 735px;
+	padding: 0 15px;
+	display: flex;
+	align-items: center;
+}
+.chat__talk .talk__item:not(:first-child){
+	margin-top: 15px;
+}
+.chat__talk .talk__photo{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	margin-right: 15px; 
+	border:1px solid #ededee;
+}
+.chat__talk .talk__text{
+	font-size: 16px;
+	flex-grow: 1;
+	margin-right: 15px;
+}
+.chat__talk .talk__date{
+	color:#adadad;
+}
+.talk__empty{
+	text-align: center;
+	padding: 80px;
+	color:#adadad;
+}
+
+
+.btn {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    border: 1px solid transparent;
+    padding: 7px 10px;
+    line-height: 1;
+    border-radius: .25rem;
+    transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-primary{
+	color:#fff;
+	background-color:#29a5dc;
+}
+.btn-primary:hover{
+	background-color:#2db3ee;
+	cursor: pointer;
+}
+.form-control{
+	padding:10px;
+	border:1px solid #e0e0e0;
+	border-radius: .25rem;
+}
+
+.input-group {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100%;
+}
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    width: 1%;
+    margin-bottom: 0;
+}
+.input-group-btn {
+    position: relative;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    font-size: 0;
+    white-space: nowrap;
+}
+.input-group .form-control:not(:last-child){
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.input-group-btn:not(:first-child)>.btn:first-child {
+    margin-left: -1px;
+}
+.input-group-btn:not(:first-child)>.btn{
+	border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
