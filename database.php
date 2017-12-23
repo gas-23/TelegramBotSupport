@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Yekaterinburg');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'cu31997_bot');
 define('DB_USER', 'cu31997_bot');
-define('DB_PASS', '2QAEu1mC');
+define('DB_PASS', '');
 define('DB_CHAR', 'utf8mb4');
 
 function render($tpl,$val = array()){

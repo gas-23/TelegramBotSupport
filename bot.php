@@ -1,6 +1,6 @@
 <?php 
 
-define('BOT_TOKEN', '494807396:AAEGd_YleSV2rZ9rifmBZ48wNUex-LZ-XJU');
+define('BOT_TOKEN', '');
 define('BOT_ID', '494807396');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 define('T_FILE_URL', 'https://api.telegram.org/file/bot'.BOT_TOKEN.'/');
